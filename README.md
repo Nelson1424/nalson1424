@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hola soy Nelson Aguirre 👋 </h1>
-<p>estoy dando mis primeros pasos como profesional en el mundo de la programacion </h1>
-<a href="https://www.facebook.com/nelson.aguirre.129">Facebook </a>
+<p>estoy dando mis primeros pasos como profesional en el mundo de la pr ogramacion</p>
+<br>
 <a href="https://www.instagram.com/nelsonaguirre129/">Instagram</a>
